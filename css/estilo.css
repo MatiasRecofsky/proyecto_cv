@@ -1,0 +1,94 @@
+* { font-family: 'Tilt Warp', cursive;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb( 186, 211, 213 );
+}
+
+p{
+    color: blue;
+    width: 700px;
+    font-size:large;
+}
+h1{
+    color: brown;
+    text-align: center;
+    font-size:50px;
+}
+#info{
+    color: black;
+    font-weight: bold;
+}
+.topnav{
+    font-size: large;
+}
+.topnav a {
+    text-decoration: none;
+}
+.topnav a:hover{
+    font-weight: 700;
+    color: red;
+}
+footer{
+    color:aqua;
+    width: 650px;
+    font-size:large;
+}
+.foto1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+  border-radius: 50%;
+}
+.center.center {
+    display: block;
+    margin: auto;
+    width: 25%;
+  }
+.cuerpo{
+margin-top: 10%;
+margin-left: 10%;
+margin-bottom: 10%;
+margin-right: 10%;
+}
+#mont{
+    width: 200px;
+    display: block;
+   margin-left: auto;
+    margin-right: auto
+
+}
+.boton {
+    width: 120px;
+    height: 50px;
+    padding: 2px 5px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 12px;
+    position: fixed;
+    top: 30px;
+    right: 30px;
+    cursor: pointer;
+}
+.boton:hover {
+    width: 125px;
+    height: 55px;
+    opacity: 0.8;
+}
+.boton1 {
+    width: 120px;
+    height: 50px;
+    padding: 2px 5px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 12px;
+    position: fixed;
+    top: 100px;
+    right: 30px;
+    cursor: pointer;
+}
