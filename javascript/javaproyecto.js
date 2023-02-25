@@ -15,6 +15,4 @@ function mostrarfecha() {
 }
 
 
-document.getElementById("boton1").addEventListener("click", funcion1);
-
 
