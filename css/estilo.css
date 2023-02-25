@@ -69,10 +69,10 @@ margin-right: 10%;
     background-color: #4CAF50;
     color: white;
     border-radius: 12px;
-    position: fixed;
+   /** position: fixed;
     top: 30px;
     right: 30px;
-    cursor: pointer;
+    cursor: pointer;*/
 }
 .boton:hover {
     width: 125px;
@@ -87,8 +87,8 @@ margin-right: 10%;
     background-color: #4CAF50;
     color: white;
     border-radius: 12px;
-    position: fixed;
+   /** position: fixed;
     top: 100px;
     right: 30px;
-    cursor: pointer;
+    cursor: pointer;*/
 }
